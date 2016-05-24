@@ -96,7 +96,6 @@
 <img src='Picture-Directory/28 - 9i2xpUo.jpg'>
 <img src='Picture-Directory/28 - EzmJdkK.jpg'>
 <img src='Picture-Directory/29 - UVdF8nt.jpg'>
-<img src='Picture-Directory/29 - cArPB8X.jpg'>
 <img src='Picture-Directory/29 - fmq9bBJ.jpg'>
 <img src='Picture-Directory/29 - qPvfQ3a.jpg'>
 <img src='Picture-Directory/3 - Revenge of the Sith.jpg'>
@@ -198,7 +197,6 @@
 <img src='Picture-Directory/57 - i7ij3KF.jpg'>
 <img src='Picture-Directory/57 - t7gC1bh.jpg'>
 <img src='Picture-Directory/58 - ICVMVrl.jpg'>
-<img src='Picture-Directory/58 - IOLrVob.jpg'>
 <img src='Picture-Directory/59 - 4ESbWh4.jpg'>
 <img src='Picture-Directory/59 - idPWYku.jpg'>
 <img src='Picture-Directory/59 - k0nNLPJ.jpg'>
@@ -239,10 +237,12 @@
 <img src='Picture-Directory/75 - Sn0hJWR.jpg'>
 <img src='Picture-Directory/76 - 1qBIY0F.jpg'>
 <img src='Picture-Directory/99_by_dzikawa-d9ko812.jpg'>
+<img src='Picture-Directory/D5friaT.jpg'>
 <img src='Picture-Directory/JuOpsei.jpg'>
 <img src='Picture-Directory/LeIdVyp.jpg'>
 <img src='Picture-Directory/PTZHdoq.jpg'>
 <img src='Picture-Directory/RzSQPS6.jpg'>
+<img src='Picture-Directory/StarWars Stitch.jpg'>
 <img src='Picture-Directory/T0Jl1dN.jpg'>
 <img src='Picture-Directory/W3UUxvY.jpg'>
 <img src='Picture-Directory/afGiCjX.jpg'>
