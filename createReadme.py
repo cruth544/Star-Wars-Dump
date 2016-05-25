@@ -14,7 +14,7 @@ random.shuffle(pictures)
 
 f = open('README.md', 'a')
 for pic in pictures:
-  f.write("<img src='" + pic + "'>")
+  f.write("<img src='./Picture-Directory/" + pic + "'>\n")
 f.close()
   
 #print pictures
