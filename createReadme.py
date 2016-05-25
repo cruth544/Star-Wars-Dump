@@ -16,7 +16,13 @@ f = open('README.md', 'a')
 for pic in pictures:
   f.write("<img src='./Picture-Directory/" + pic + "'>\n")
 f.close()
-  
+
+os.system("python createReadme.py")
+os.system("git add -A")
+os.system("git commint -m 'update readme'")
+os.system("git push")
+
+
 #print pictures
 #
 #print "Hello World!"
